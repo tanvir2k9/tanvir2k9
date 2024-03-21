@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanvir2k9
-- 👀 I’m interested in Communication Engineering...
-- 🌱 I’m currently learning python and R...
-- 💞️ I’m looking to collaborate on pattern recognition and machine learning projects
+- 👀 I’m interested in Communication Engineering with python and R programming skills...
+- 🌱 I’m currently learning Full Stack web development.
+- 💞️ I’m looking to build my career as DevOps engineer
 - 📫 How to reach me ...etanvirahmed@outlook.com
 
 <!---
